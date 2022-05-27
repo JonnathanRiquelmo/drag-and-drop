@@ -62,7 +62,7 @@ A web app for keeping track of activities on a Kanban board with drag-and-drop s
 <h2 id="installation"> 🖥️ Installation</h2>
 
 <p>Clone the repo in the terminal, or command line in your code editor</p>
-<pre><code>git clone https://github.com/JonnathanRiquelmo/music-player.git </code></pre>
+<pre><code>git clone https://github.com/JonnathanRiquelmo/drag-and-drop.git </code></pre>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
